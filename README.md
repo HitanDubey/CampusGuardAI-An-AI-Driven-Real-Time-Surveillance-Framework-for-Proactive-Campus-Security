@@ -56,6 +56,9 @@ Unlike traditional CCTV systems that only record footage, CampusGuard AI **under
 | **Phone Detection** | Mobile device usage | 75% | Exam halls, restricted zones |
 ## Demo Image
 ![alt text](Demo_image.png)
+
+Fight 
+![alt text](Fight.png)
 ### 🎥 Multi-Camera Support
 - **Webcam** (built-in laptop cameras) - Perfect for testing and small-scale deployment
 - **External USB cameras** - Automatic device detection and indexing
