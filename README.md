@@ -7,7 +7,8 @@
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-8.0.186-red.svg)](https://github.com/ultralytics/ultralytics)
 [![CUDA](https://img.shields.io/badge/CUDA-Supported-brightgreen.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
+## Demo Video 
+[Watch the Demo Video](https://github.com/HitanDubey/CampusGuardAI-An-AI-Driven-Real-Time-Surveillance-Framework-for-Proactive-Campus-Security/blob/main/Demo_Video.mp4)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
