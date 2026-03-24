@@ -13,8 +13,6 @@ Click the image below to watch the demo video:
 
 [![Demo Video Thumbnail](static/css/login.jpeg)](https://github.com/HitanDubey/CampusGuardAI-An-AI-Driven-Real-Time-Surveillance-Framework-for-Proactive-Campus-Security/blob/main/Demo_Video.mp4)
 
-## Demo Image
-![alt text](Demo_image.png)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -56,7 +54,8 @@ Unlike traditional CCTV systems that only record footage, CampusGuard AI **under
 | **Suspicious Behavior** | Loitering (4+ minutes), unusual patterns | 90% | Restricted areas, after-hours zones |
 | **Normal Detection** | Standard person/object tracking | 50% | General surveillance across campus |
 | **Phone Detection** | Mobile device usage | 75% | Exam halls, restricted zones |
-
+## Demo Image
+![alt text](Demo_image.png)
 ### 🎥 Multi-Camera Support
 - **Webcam** (built-in laptop cameras) - Perfect for testing and small-scale deployment
 - **External USB cameras** - Automatic device detection and indexing
