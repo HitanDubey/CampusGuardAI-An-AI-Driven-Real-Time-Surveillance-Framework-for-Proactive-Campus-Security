@@ -12,6 +12,9 @@ ve Campus Security**
 Click the image below to watch the demo video:
 
 [![Demo Video Thumbnail](static/css/login.jpeg)](https://github.com/HitanDubey/CampusGuardAI-An-AI-Driven-Real-Time-Surveillance-Framework-for-Proactive-Campus-Security/blob/main/Demo_Video.mp4)
+
+## Demo Image
+![alt text](Demo_image.png)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
