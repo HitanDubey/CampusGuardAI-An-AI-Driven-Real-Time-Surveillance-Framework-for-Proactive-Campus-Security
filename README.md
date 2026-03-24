@@ -1,6 +1,7 @@
 # 🛡️ CampusGuard AI
 
-**An AI-Driven Real-Time Surveillance Framework for Proactive Campus Security**
+**An AI-Driven Real-Time Surveillance Framework for Proacti
+ve Campus Security**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)](https://flask.palletsprojects.com)
@@ -8,7 +9,9 @@
 [![CUDA](https://img.shields.io/badge/CUDA-Supported-brightgreen.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ## Demo Video 
-[Watch the Demo Video](https://github.com/HitanDubey/CampusGuardAI-An-AI-Driven-Real-Time-Surveillance-Framework-for-Proactive-Campus-Security/blob/main/Demo_Video.mp4)
+Click the image below to watch the demo video:
+
+[![Demo Video Thumbnail](static/css/login.jpeg)](https://github.com/HitanDubey/CampusGuardAI-An-AI-Driven-Real-Time-Surveillance-Framework-for-Proactive-Campus-Security/blob/main/Demo_Video.mp4)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
